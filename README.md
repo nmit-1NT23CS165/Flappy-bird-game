@@ -100,4 +100,4 @@ The AI typically learns to pass pipes consistently within **5–10 generations**
 
 ## 👩‍💻 Author
 
-Made by **nmit-1NT23CS165** as part of an AI/ML project.
+Made by **Pracheta-1NT23CS165** as part of an AI/ML project.
